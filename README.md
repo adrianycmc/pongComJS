@@ -9,6 +9,7 @@ Este projeto teve como objetivo desenvolver o jogo Pong com a linguagem JavaScri
 | :label: Tecnologia | JavaScript
 | :rocket: URL       | [Código](https://github.com/adrianycmc/pongComJS)
 | :fire: Desafio     | [Clique aqui para jogar](https://editor.p5js.org/adrianycmc/full/rheqsYKl6)
+| 🌐 Status | Finalizado
 
 
 ## Detalhes do projeto
