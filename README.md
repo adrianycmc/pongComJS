@@ -1,7 +1,6 @@
-## Nome do projeto
-Pong com JavaScript 
+## Pong com JavaScript 
 
-## Descrição do projeto
+#### Descrição do projeto
 Este projeto teve como objetivo desenvolver o jogo Pong com a linguagem JavaScript no p5.js editor. 😀
 
 
